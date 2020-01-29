@@ -1,0 +1,8 @@
+{
+  "artifacts": [
+    {
+      "artifactName": "sample",
+      "root": "/sample-project"
+    }
+  ]
+}

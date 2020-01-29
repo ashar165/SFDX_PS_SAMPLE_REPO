@@ -3,5 +3,11 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/.sfdx": true
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#511933",
+    "titleBar.activeBackground": "#712348",
+    "titleBar.activeForeground": "#FEFCFD"
+  },
+  "eslint.nodePath": "c:\\Users\\assharma\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-47.16.0\\node_modules"
 }

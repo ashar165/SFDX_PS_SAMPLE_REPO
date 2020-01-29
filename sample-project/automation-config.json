@@ -1,1 +1,6 @@
-
+{
+  "orgConfig": {
+    "dependecyPackages": ["0HoB00000008PE0KAM"],
+    "configFile": "./config/project-scratch-def.json"
+  }
+}
